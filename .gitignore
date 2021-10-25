@@ -117,3 +117,6 @@ GitHub.sublime-settings
 
 # Node modules #
 frontend/node_modules
+
+# Env #
+credentials.py
