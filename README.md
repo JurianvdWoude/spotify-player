@@ -76,3 +76,13 @@ You can now visit the Webapp at <a href="http://127.0.0.1:8000/">http://127.0.0.
 
 
 <p align="right"><a href="#top">back to top</a></p>
+
+
+
+
+
+### Starting the App
+
+This app requires a Spotify account to work.</br>
+Creating a room via the app will send you to Spotify, where you can login with this account.</br>
+Finally, the app won't work unless you start playing a song on Spotify.
