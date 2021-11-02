@@ -56,28 +56,23 @@ This is a React tutorial project, made with Django, Babel and Webpack
 
 ### Deployment
 
-<ol>
-  <li>
-    Go to the <i>music_controller</i> folder 
-    `React-Django-Music/music_controller`
-    via the terminal, then run:
-    ```
+Go to the `React-Django-Music/music_controller` folder
+via the terminal, </br>
+then run the server by typing:
+    
+  ```
     python manage.py runserver
-    ```
-    to run the webserver.
-  </li>
-  <li>
-    Then, in the <i>frontend</i> subfolder 
-    `React-Django-Music/music_controller/frontend`
-    run the following command:
-    ```
-    npm run build
-    ```
-    which will run Webpack and Babel to transpile JavaScript.
-  </li>
-  <li>
-    You can now visit the Webapp at <a href="http://127.0.0.1:8000/">http://127.0.0.1:8000/</a>!
-  </li>
-</ol>
+  ```
+    
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+Next, transpile JavaScript by going to the `React-Django-Music/music_controller/frontend` subfolder</br>
+to run the following command:
+ ```
+    npm run build
+ ```
+
+
+You can now visit the Webapp at <a href="http://127.0.0.1:8000/">http://127.0.0.1:8000/</a>!
+
+
+<p align="right"><a href="#top">back to top</a></p>
